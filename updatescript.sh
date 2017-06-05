@@ -1,0 +1,4 @@
+echo "SELAMAT DATANG DI MENU UPDATE SCRIPT VPS" 
+echo "MAFF SAAT INI BELUM ADA UPDATE SCRIPT TERBARU"
+echo ""
+echo "---------------TERIMAKASIH-------------------"
